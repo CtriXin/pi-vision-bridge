@@ -1,0 +1,22 @@
+{
+  "name": "pi-vision-bridge",
+  "version": "0.1.0",
+  "description": "Pi extension: delegate image understanding to a vision-capable model for text-only models",
+  "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CtriXin/pi-vision-bridge"
+  },
+  "keywords": [
+    "pi",
+    "pi-agent",
+    "extension",
+    "vision",
+    "llm",
+    "multimodal"
+  ],
+  "dependencies": {
+    "typebox": "^0.34.0"
+  }
+}
